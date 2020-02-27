@@ -11,4 +11,4 @@ class Person
 end
 
 class Dog 
-  def initialize(name, )
+  def initialize(name, breed="Mutt")
